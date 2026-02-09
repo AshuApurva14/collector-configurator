@@ -1,6 +1,10 @@
 ***
 
 # Collector Configurator Tool
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/grafana/collector-configurator/ci.yaml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/grafana/collector-configurator/deploy.yaml)
+
 <div align="center">
   
 **An intuitive web-based tool for generating and editing OpenTelemetry Collector configuration files**
