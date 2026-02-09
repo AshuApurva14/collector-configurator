@@ -12,12 +12,11 @@
 ## Overview
 The Collector Configurator is a user-friendly web interface designed to simplify the creation and management of OpenTelemetry Collector configuration files. This tool has been adapted to work seamlessly with OpenTelemetry Collector pipelines, making it easier for DevOps engineers and SREs to configure observability pipelines without deep YAML expertise. [grafana](https://grafana.com/docs/opentelemetry/collector/)
 
-## Screenshots
-### Main Interface
+## Main Interface
 *Visual configuration builder with real-time YAML preview*
 <img width="3058" height="1714" alt="otel_config_genartor" src="https://github.com/user-attachments/assets/c50233a7-667a-43a4-aaf2-a03203204604" />
 
-### Configuration Export
+## Configuration Export
 *Generate production-ready OpenTelemetry Collector configurations*
 
 > **Note**: To add actual screenshots:
