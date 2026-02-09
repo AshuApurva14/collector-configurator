@@ -2,8 +2,7 @@
 
 # Collector Configurator Tool
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/grafana/collector-configurator/ci.yaml)
-![Deploy](https://img.shields.io/github/actions/workflow/status/grafana/collector-configurator/deploy.yaml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/grafana/collector-configurator/ci.yaml) 
 
 <div align="center">
   
