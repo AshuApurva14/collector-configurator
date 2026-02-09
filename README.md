@@ -2,10 +2,7 @@
 
 # Collector Configurator Tool
 <div align="center">
-
-[
-[
-
+  
 **An intuitive web-based tool for generating and editing OpenTelemetry Collector configuration files**
 
 [Live Demo](https://grafana.github.io/collector-configurator/) | [Report Bug](https://github.com/grafana/collector-configurator/issues) | [Request Feature](https://github.com/grafana/collector-configurator/issues)
@@ -136,4 +133,3 @@ This project is maintained by Grafana Labs. Check the repository for license det
 **Built with ❤️ by Grafana Labs**
 
 ***
-Alternatively, you can use a tool like `screencapture` or browser dev tools to capture the interface, or if you'd like, I can help you create a script to automate screenshot capture of the web application.
