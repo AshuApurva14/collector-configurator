@@ -111,7 +111,11 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 - [Grafana Fleet Management](https://grafana.com/docs/learning-journeys/fleet-mgt-monitor-health/) - Manage and monitor multiple collectors at scale
 
 ## License
-This project is maintained by Grafana Labs. Check the repository for license details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+Copyright © Grafana Labs
+
+Apache License 2.0
 
 ## Support
 - **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/grafana/collector-configurator/issues)
