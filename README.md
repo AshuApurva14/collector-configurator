@@ -1,12 +1,10 @@
 # Collector Configurator Tool
 
-**An intuitive web-based tool for generating and editing OpenTelemetry Collector configuration files**
-
 <div align="center">
   
 **An intuitive web-based tool for generating and editing OpenTelemetry Collector configuration files**
 
-The _Collector Configuration Generator_ is an easy to use web interface for creating and editing OpenTelemetry Collector configuration files.
+The _Collector Configuration Generator_ is an easy-to-use web interface for creating and editing OpenTelemetry Collector configuration files.
 
 Try it out here: [grafana.github.io/collector-configurator/](https://grafana.github.io/collector-configurator/)
 
