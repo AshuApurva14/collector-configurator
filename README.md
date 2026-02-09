@@ -10,7 +10,7 @@
 </div>
 
 ## Overview
-The Collector Configurator is a user-friendly web interface designed to simplify the creation and management of OpenTelemetry Collector configuration files. Originally forked from the Grafana Agent Configurator, this tool has been adapted to work seamlessly with OpenTelemetry Collector pipelines, making it easier for DevOps engineers and SREs to configure observability pipelines without deep YAML expertise. [grafana](https://grafana.com/docs/opentelemetry/collector/)
+The Collector Configurator is a user-friendly web interface designed to simplify the creation and management of OpenTelemetry Collector configuration files. This tool has been adapted to work seamlessly with OpenTelemetry Collector pipelines, making it easier for DevOps engineers and SREs to configure observability pipelines without deep YAML expertise. [grafana](https://grafana.com/docs/opentelemetry/collector/)
 
 ## Screenshots
 ### Main Interface
