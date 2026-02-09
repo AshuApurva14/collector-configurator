@@ -121,5 +121,3 @@ This project is maintained by Grafana Labs. Check the repository for license det
 ***
 
 **Built with ❤️ by Grafana Labs**
-
-***
